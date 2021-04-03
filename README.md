@@ -7,7 +7,7 @@ Group8 project for DSCI 525 - Web and Cloud Computing as part of the Master of D
 The goal of the project is to build and deploy ensemble machine learning models to predict daily rainfall in Australia. As part of
 the course objectives, we will examine the limitations of working on our computers as well as the advantages of doing so on the cloud.
 
-Throughout the project we will be following the following four milestones:
+Throughout the project we will be addressing the following milestones:
 
 **Milestone 1 (Week 1)** - Get the Data from Web & familiarize with advanced file formats
 
@@ -23,7 +23,7 @@ Please find the report of the project in a notebook [here](https://github.com/UB
 
 ## Data
 
-The data used for this project is a large rainfall dataset (>5GB) and can be found in [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681).
+The data used for this project is a very large rainfall dataset (>6GB) that can be found in [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681).
 
 The features are outputs of different climate models and the target is the actual observed rainfall. This dataset contains
 observations from 1889 to 2014.
